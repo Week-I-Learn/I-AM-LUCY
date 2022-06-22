@@ -13,3 +13,4 @@ Hi there👋🏻
 ## CSS
 
 ## 
+- [ ] [CSR과 SSR](https://github.com/Week-I-Learn/I-AM-LUCY/blob/main/CSR%EA%B3%BC%20SSR.md#csrclient-side-rendering%EA%B3%BC-ssrserver-side-rendering)
