@@ -18,6 +18,4 @@ Hi there👋🏻
 
 - [ ] [VSCode Extension Recommend](https://github.com/Week-I-Learn/I-AM-LUCY/blob/main/TIL/VSCode%20Extension.md#vscode-extension-recommend)
 
-##
-
 - [ ] [CSR과 SSR](https://github.com/Week-I-Learn/I-AM-LUCY/blob/main/TIL/CSR%EA%B3%BC%20SSR.md#csrclient-side-rendering%EA%B3%BC-ssrserver-side-rendering)
