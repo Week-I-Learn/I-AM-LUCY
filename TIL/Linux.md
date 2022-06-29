@@ -6,7 +6,7 @@
 
 ### What is Linux?
 
-- Linux는 오픈소스 운영체제(OS)입니다. 모든 Linux 기반 OS에는 하드웨어 리소스를 관리하는 Linux 커널과 OS의 나머지를 구성하는 일련의 소프트웨어 패키지가 포함
+- Linux는 오픈소스 운영체제(OS)입니다. 모든 Linux 기반 OS에는 하드웨어 리소스를 관리하는 Linux 커널과 OS의 나머지를 구성하는 일련의 소프트웨어<br /> 패키지가 포함
 
 ### What is OS?
 
@@ -14,7 +14,7 @@
 
 ### What is a command line?
 
-- command line 통해서 컴퓨터에 직접 액세스할 수 있습니다. 사용자는 command line에서 그래픽 사용자 인터페이스(GUI)가 요청할 수 없는 하드웨어 작업을 수행하도록 소프트웨어에 요청
+- command line 통해서 컴퓨터에 직접 액세스할 수 있습니다. 사용자는 command line에서 그래픽 사용자 인터페이스(GUI)가 요청할 수 없는 <br />하드웨어 작업을 수행하도록 소프트웨어에 요청
   [리눅스 명령어 모음 ](https://www.notion.so/b832fc6793fc47e681415f258bea0c5b)
 
 ### useradd {옵션} {아이디}
@@ -53,7 +53,7 @@
 
 ### What is awk?
 
-- 파일로부터 레코드(record)를 선택하고, 선택된 레코드에 포함된 값을 조작하거나 데이터화 하는 것을 목적으로 사용하는 프로그램
+- 파일로부터 레코드(record)를 선택하고, 선택된 레코드에 포함된 값을 조작하거나 데이터화 하는 것을 목적으로 사용하는 프로그램<br />
   참고: [https://recipes4dev.tistory.com/171](https://recipes4dev.tistory.com/171)
 
 ### Linux 컨테이너란?
