@@ -15,7 +15,7 @@
 ### What is a command line?
 
 - command line 통해서 컴퓨터에 직접 액세스할 수 있습니다. 사용자는 command line에서 그래픽 사용자 인터페이스(GUI)가 요청할 수 없는 <br />하드웨어 작업을 수행하도록 소프트웨어에 요청
-  [리눅스 명령어 모음 ](https://www.notion.so/b832fc6793fc47e681415f258bea0c5b)
+  **[리눅스 명령어 모음 ](https://www.notion.so/b832fc6793fc47e681415f258bea0c5b)**
 
 ### useradd {옵션} {아이디}
 
@@ -48,13 +48,13 @@
 
 - userdel [옵션] [계정명]
 - userdel -rf usert1 명령어로 강제 계정 삭제 후 <- 강제 계정 삭제
-- cat /etc/passwd | grep usert1 < - 검색 결과 확인
-  참고: [https://rootblog.tistory.com/2](https://rootblog.tistory.com/2)
+- cat /etc/passwd | grep usert1 < - 검색 결과 확인<br />
+  **참고: [https://rootblog.tistory.com/2](https://rootblog.tistory.com/2)**
 
 ### What is awk?
 
 - 파일로부터 레코드(record)를 선택하고, 선택된 레코드에 포함된 값을 조작하거나 데이터화 하는 것을 목적으로 사용하는 프로그램<br />
-  참고: [https://recipes4dev.tistory.com/171](https://recipes4dev.tistory.com/171)
+  **참고: [https://recipes4dev.tistory.com/171](https://recipes4dev.tistory.com/171)**
 
 ### Linux 컨테이너란?
 
@@ -62,5 +62,5 @@
 
 ### Linux 컨테이너를 사용해야 하는 이유
 
-- Linux 컨테이너를 활용하면 담당 영역을 분리하여 충돌을 줄일 수 있다.
-- 개발자는 애플리케이션에 집중할 수 있고 운영팀은 인프라에 주력할 수 있다.
+- Linux 컨테이너를 활용하면 담당 영역을 분리하여 충돌을 줄일 수 있음
+- 개발자는 애플리케이션에 집중할 수 있고 운영팀은 인프라에 주력할 수 있음
