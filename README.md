@@ -19,4 +19,6 @@ Hi there👋🏻
 - [ ] [VSCode Extension Recommend](https://github.com/Week-I-Learn/I-AM-LUCY/blob/main/TIL/VSCode%20Extension.md#vscode-extension-recommend)
 - [ ] [CSR과 SSR](https://github.com/Week-I-Learn/I-AM-LUCY/blob/main/TIL/CSR%EA%B3%BC%20SSR.md#csrclient-side-rendering%EA%B3%BC-ssrserver-side-rendering)
 - [ ] [Linux](https://github.com/Week-I-Learn/I-AM-LUCY/blob/main/TIL/Linux.md#linux)
-- [ ] [포트폴리오와 면접]()
+
+## Book
+- [ ] [포트폴리오와 면접](https://github.com/Week-I-Learn/I-AM-LUCY/blob/main/TIL/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EC%99%80%20%EB%A9%B4%EC%A0%91.md#%EB%A9%B4%EC%A0%91%EC%9D%84-%EC%9C%84%ED%95%9C-cs-%EC%A0%84%EA%B3%B5%EC%A7%80%EC%8B%9D-%EB%85%B8%ED%8A%B8)
