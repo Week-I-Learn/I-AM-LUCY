@@ -1,4 +1,4 @@
-# I-AM-LUCY😀
+# I-AM-LUCY 😀
 
 ## Github
 
