@@ -26,7 +26,7 @@ s
 - [ ] [CSR과 SSR](https://github.com/Week-I-Learn/I-AM-LUCY/blob/main/TIL/CSR%EA%B3%BC%20SSR.md#csrclient-side-rendering%EA%B3%BC-ssrserver-side-rendering)
 - [ ] [Linux](https://github.com/Week-I-Learn/I-AM-LUCY/blob/main/TIL/Linux.md#linux)
 - [ ] [React UI 라이브러리](https://github.com/Week-I-Learn/I-AM-LUCY/blob/main/TIL/React%20UI%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md#ui-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC)
-
+- [ ] [HTTP와 쿠키 그리고 세션]()
 ## Book
 
 - [ ] [포트폴리오와 면접](https://github.com/Week-I-Learn/I-AM-LUCY/blob/main/TIL/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EC%99%80%20%EB%A9%B4%EC%A0%91.md#%EB%A9%B4%EC%A0%91%EC%9D%84-%EC%9C%84%ED%95%9C-cs-%EC%A0%84%EA%B3%B5%EC%A7%80%EC%8B%9D-%EB%85%B8%ED%8A%B8)
