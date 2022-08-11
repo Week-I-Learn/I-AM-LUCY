@@ -1,7 +1,5 @@
 # I-AM-LUCY 😀
-나는 루씨 입니다.
-Wow
-s
+
 ## Github
 
 - [ ] [Commit Convention](https://github.com/Week-I-Learn/I-AM-LUCY/blob/main/Github/Commit%20Convention.md#commit-convention)
