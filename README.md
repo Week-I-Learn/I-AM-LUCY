@@ -28,6 +28,7 @@
 - [ ] [React UI 라이브러리](https://github.com/Week-I-Learn/I-AM-LUCY/blob/main/TIL/React%20UI%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md#ui-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC)
 - [ ] [HTTP와 쿠키 그리고 세션](https://github.com/Week-I-Learn/I-AM-LUCY/blob/main/TIL/HTTP%EC%99%80%20%EC%BF%A0%ED%82%A4%EC%99%80%20%EC%84%B8%EC%85%98%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%ED%86%A0%ED%81%B0.md#http%EC%99%80-%EC%BF%A0%ED%82%A4-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%84%B8%EC%85%98)
 - [ ] [ESLint와 Prettier](https://github.com/Week-I-Learn/I-AM-LUCY/blob/main/TIL/ESLint%EC%99%80%20Prettier.md)
+- [ ] [lazyloading]
 
 
 ## Book
