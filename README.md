@@ -1,4 +1,4 @@
-# I-AM-LUCY 😀😀
+# I-AM-LUCY 😀😀😀😀
 
 ## Github
 - [ ] [Commit Convention](https://github.com/Week-I-Learn/I-AM-LUCY/blob/main/Github/Commit%20Convention.md#commit-convention)
